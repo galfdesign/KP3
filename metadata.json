@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GalfDesign",
+  "description": "Интеллектуальный анализатор и проектировщик от GalfDesign.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
